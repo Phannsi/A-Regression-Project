@@ -1,4 +1,4 @@
 .env
 myvenv
-.gitignore
 .vscode
+.gitignore
